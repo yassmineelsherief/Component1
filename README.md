@@ -8,8 +8,8 @@ Eman Khaled 37-1508
 
 
 
-Maryam Zain 37-2211     the aim of this repository is to learn how to issue and have a conflict and solve the conflict 
-
+Maryam Zain 37-2211     the aim of this repository is to learn how to issue and have a conflict and solve the conflict .
+bi student 3rd year 6th semester and excited to know more about the course 
 
 
 Mohamed Magdy Helal Mousa 37-6873
