@@ -36,7 +36,8 @@ the aim of this repository is to learn how to issue and have a conflict and solv
 bi student 3rd year 6th semester and excited to know more about the course 
 
 
-# Mohamed Magdy Helal Mousa, 37-6873. The aim of this course is to learn concepts regarding software engineering.  I am a Bi student, third year , looking forward to be graduated with my colleagues. 
+# Mohamed Magdy Helal Mousa 37-6873. 
+The aim of this course is to learn concepts regarding software engineering.  I am a Bi student, third year , looking forward to be graduated with my colleagues. 
 
 
 
